@@ -1,0 +1,1 @@
+I've found a new item in the RSS feed. Here's the description: {description}. And here's the link: {link}. Can you expand on this information?

@@ -1,0 +1,19 @@
+{
+    "wordpress": {
+      "url": "https://www.youwordpresswebsite.com/xmlrpc.php",
+      "username": "admin",
+      "password": ""
+    },
+    "openai": {
+      "openai_api_key": "sk-XXX"
+    },
+    "rss_feed_url": "https://www.yourRSSFeed.com/rss.xml",
+    "loop_delay": 10800,
+    "folders": {
+      "prompts": "prompts",
+      "images": "images"
+    },
+    "size": "512x512",
+    "temperature": 0.7,
+    "max_tokens": 600
+  }
